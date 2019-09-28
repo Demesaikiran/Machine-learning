@@ -1,5 +1,5 @@
 # Machine-learning
-Projects
+Calculate the similarity distance between documents using pre-trained word2vec model.
 
 ### Usage
 
